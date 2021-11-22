@@ -2,7 +2,7 @@
 Sistem Informasi Kepegawaian based on CodeIgniter
 
 ## Overview
-This work is belongs to my homework task
+This work is belongs to my project task
 
 ## Usage
 You can see the full of website on http://localhost/simpeg
