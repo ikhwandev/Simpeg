@@ -6,17 +6,17 @@ This work is belongs to my homework task
 
 ## Usage
 You can see the full of website on http://localhost/simpeg
-- Admin
+- Camat
 
-  - E-mail : admin@gmail.com
-  - Password : admin
+  - E-mail : camat@gmail.com
+  - Password : camat
 
-- Ka. BAAK
+- Sekcam
 
-  - E-mail : baak@gmail.com
-  - Password : baak
+  - E-mail : sekcam@gmail.com
+  - Password : sekcam
 
-- Employee
+- Pegawai
 
-  - E-mail : pegawai@gmail.com
-  - Password : pegawai
+  - E-mail : fadil@gmail.com
+  - Password : fadil
